@@ -108,7 +108,7 @@ document.addEventListener("keydown",function(e){
  if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==="k"){e.preventDefault();openP();return}
  if(!sp.classList.contains("open"))return;
  if(e.key==="ArrowDown"){e.preventDefault();mark(on+1)}
- else if(e.key==="ArrowUp"){e.preventDefault();mark(on<-1?-1:on-1)}
+ else if(e.key==="ArrowUp"){e.preventDefault();mark(on<0?-1:on-1)}
  else if(e.key==="Enter"&&t===sq){var as=sr.querySelectorAll("a");var a=as[on>-1?on:0];if(a){e.preventDefault();go(a.getAttribute("data-id"),a.getAttribute("data-page"))}}
 });
 })();
