@@ -4,11 +4,11 @@
 
 **https://donquixote-doflaming.github.io/Bengaliliterature/**  
 
-ক্লোন করার ঠিকানা: `https://github.com/Donquixote-Doflaming/Bengaliliterature.git`
 
 
 
-GitHub Pages-এ প্রকাশের পর: **[পাঠ-গাইড খুলুন](https://donquixote-doflaming.github.io/Bengaliliterature/)** · [আধুনিক লেখকদের জন্মক্রম](https://donquixote-doflaming.github.io/Bengaliliterature/#modern-chronology) · [অনুশীলনী ও প্রশ্ন](https://donquixote-doflaming.github.io/Bengaliliterature/#questions)
+
+
 
 ## কী আছে এই গাইডে?
 
