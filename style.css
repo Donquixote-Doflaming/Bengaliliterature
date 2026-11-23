@@ -213,3 +213,8 @@ img,svg,video,iframe{max-width:100%}
 .page-nav a{color:var(--mute);text-decoration:none;padding:4px 8px;border-radius:8px;transition:color .15s,background .15s}
 .page-nav a:hover{color:var(--ink);background:var(--card)}
 .page-nav a[aria-current="page"]{color:var(--ink);background:var(--card);font-weight:750;border-bottom:2px solid var(--ink)}
+
+/* ===== Search: cross-page result indicator ===== */
+#sr .sg{display:inline-block;font-size:.75em;background:var(--card);color:var(--mute);padding:1px 7px;border-radius:6px;margin-left:6px;vertical-align:middle;font-weight:600}
+#sr .ss{display:block;font-size:.82em;color:var(--mute);margin-top:2px;line-height:1.5}
+#sr mark{background:#fef08a;color:inherit;border-radius:2px;padding:0 1px}
